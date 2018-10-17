@@ -1,6 +1,6 @@
 {
-    "name": "uitrick/yii2-widget-upload-crop",
-    "description": "Form input widget that lets users to upload an image alongside its cropping dimensions.",
+    "name": "onmotion/yii2-widget-upload-crop",
+    "description": "Fork",
     "keywords": ["yii2", "form", "widget"],
     "type": "yii2-extension",
     "license": "BSD",
@@ -14,6 +14,6 @@
         "yiisoft/yii2": "*"
     },
     "autoload": {
-        "psr-4": { "uitrick\\yii2\\widget\\upload\\crop\\": "" }
+        "psr-4": { "onmotion\\yii2\\widget\\upload\\crop\\": "" }
     }
 }
